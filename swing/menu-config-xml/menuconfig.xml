@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<menuconfig>
+    <item name="File">
+        <item name="Exit" cmd="Terminate"></item>
+    </item>
+    <item name="View"></item>
+    <item name="Help">
+        <item name="About" cmd="DisplayInfo"></item>
+    </item>
+</menuconfig>
